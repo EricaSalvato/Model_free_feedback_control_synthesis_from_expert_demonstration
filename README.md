@@ -1,7 +1,7 @@
 # Model-free-feedback-control-synthesis-from-expert-demonstration
 
 This repository contains the code related to the paper:  
-<p style="text-align: center;">["Model-free feedback control synthesis from expert demonstration"](https://ieeexplore.ieee.org/abstract/document/10057485)</p>
+["Model-free feedback control synthesis from expert demonstration"](https://ieeexplore.ieee.org/abstract/document/10057485)
 
 
 
