@@ -5,7 +5,6 @@ This repository contains the code related to the paper:
 
 Authors: Franco Blanchini; Fabrizio Dabbene; Gianfranco Fenu; Felice Andrea Pellegrino; Erica Salvato<sup>*</sup>
 
-
 To be cited as follows:  
 @article{blanchini2023model,  
 &emsp; title={Model-free feedback control synthesis from expert demonstration},  
