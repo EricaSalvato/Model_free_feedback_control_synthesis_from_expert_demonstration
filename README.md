@@ -2,7 +2,7 @@
 
 This repository contains the code related to the paper:  
 ["Model-free feedback control synthesis from expert demonstration"](https://ieeexplore.ieee.org/abstract/document/10057485)
-
+Authors: Franco Blanchini; Fabrizio Dabbene; Gianfranco Fenu; Felice Andrea Pellegrino; Erica Salvato^*
 
 
 To be cited as follows:  
