@@ -17,3 +17,7 @@ To be cited as follows:
 ## Abstract
 We show how it is possible to synthesize a stabilizing feedback control, in the complete absence of a model, starting from the open-loop control generated
 by an expert operator, capable of driving a system to a specific set-point. We assume that the system is linear and discrete time. We propose two different controls: a linear dynamic and a static, piecewise linear, one. We show the performance of the proposed controllers on a ship steering problem.
+
+
+### Code Info
+The code has been tested on Matlab 2021b
